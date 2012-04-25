@@ -1,0 +1,3 @@
+graft src/ommodelwrapper/sphinx_build/html
+recursive-include src/ommodelwrapper/test *.py
+
