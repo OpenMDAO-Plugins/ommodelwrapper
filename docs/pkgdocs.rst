@@ -9,8 +9,8 @@ Package Metadata
 
 - **classifier**:: 
 
-    Intended Audience :: Science/Research
-    Topic :: Scientific/Engineering
+    Intended Audience: Science/Research
+    Topic: Scientific/Engineering
 
 - **description-file:** README.txt
 
